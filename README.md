@@ -28,7 +28,7 @@ Replace `image.jpeg` with your desired background image, ensuring the filename r
 ### 2️⃣ Modify the Text and Messages
 - Edit the main message inside **index.html** in the following section:
   ```html
-  <h1 class="headerText" id="wedate">Will You Be My Valentine, Babe? 🥺</h1>
+  <h1 class="headerText" id="wedate">Will You Be My Valentine, My Afia? 🥺</h1>
   ```
 - Update the response message when **Yes** is clicked:
   ```html
@@ -38,7 +38,7 @@ Replace `image.jpeg` with your desired background image, ensuring the filename r
 
 - Edit the floral surprise text inside **index1.html**:
   ```html
-  <h1 style="color: rgb(162, 247, 219); margin-top: 3%;">A little floral surprise for you 🌸💐🌸 </h1>
+  <h1 style="color: rgb(162, 247, 219); margin-top: 3%;">A little cutie surprise for you 🌸💐🌸 </h1>
   ```
   Change this text to personalize your message.
 
@@ -56,7 +56,7 @@ Replace `image.jpeg` with your desired background image, ensuring the filename r
   - Background colors and effects
 
 ### 5️⃣ Add Your Name
-- Replace `Your Teddy` in **index.html** with your own signature:
+- Replace `Your DADDY AHNAF` in **index.html** with your own signature:
   ```html
   <a rel="noopener" href="https://www.linkedin.com/in/mjhasan21/" target="_blank">Your Teddy</a>
   ```
