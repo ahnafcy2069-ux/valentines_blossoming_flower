@@ -23,7 +23,7 @@ Welcome to **Valentines Blossoming Flower**, a beautifully designed interactive 
 You can personalize this project in the following ways:
 
 ### 1️⃣ Change the Background Image
-Replace `image.jpeg` with your desired background image, ensuring the filename remains `image.jpeg`.
+Replace `image.jpeg.png` with your desired background image, ensuring the filename remains `image.jpeg.png`.
 
 ### 2️⃣ Modify the Text and Messages
 - Edit the main message inside **index.html** in the following section:
@@ -32,13 +32,13 @@ Replace `image.jpeg` with your desired background image, ensuring the filename r
   ```
 - Update the response message when **Yes** is clicked:
   ```html
-  wedate.innerText = "We are each other's valentine now. I love you cutie. ❤️😘";
+  wedate.innerText = "We are each other's valentine now. I love you cutie Afia. ❤️😘";
   ```
   in `main2.js` inside the `yes()` function.
 
 - Edit the floral surprise text inside **index1.html**:
   ```html
-  <h1 style="color: rgb(162, 247, 219); margin-top: 3%;">A little cutie surprise for you 🌸💐🌸 </h1>
+  <h1 style="color: rgb(162, 247, 219); margin-top: 3%;">A little cutie surprise for you My baby Afia🌸💐🌸 </h1>
   ```
   Change this text to personalize your message.
 
