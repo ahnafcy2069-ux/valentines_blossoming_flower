@@ -23,7 +23,7 @@ Welcome to **Valentines Blossoming Flower**, a beautifully designed interactive 
 You can personalize this project in the following ways:
 
 ### 1️⃣ Change the Background Image
-Replace `image.jpeg.png` with your desired background image, ensuring the filename remains `image.jpeg.png`.
+Replace `image.jpeg` with your desired background image, ensuring the filename remains `image.jpeg`.
 
 ### 2️⃣ Modify the Text and Messages
 - Edit the main message inside **index.html** in the following section:
